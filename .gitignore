@@ -1,0 +1,7 @@
+# 忽略csv数据文件
+data/*.csv
+data/*.zip
+# python缓存
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
